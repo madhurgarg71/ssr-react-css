@@ -1,0 +1,17 @@
+.album__item {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px 0 #dfdfdf;
+  border: 1px solid #dfdfdf;
+
+  img {
+    margin-right: 20px;
+  }
+}
+
+#albums {
+  max-width: 800px;
+  margin: 0 auto;
+}
